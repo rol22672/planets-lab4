@@ -6,3 +6,6 @@ edition = "2018"
 [dependencies]
 image = "*"
 rayon = "1.0"
+wgpu = "0.16"
+winit = "0.28"
+pollster = "0.3"
