@@ -1,0 +1,8 @@
+[package]
+name = "planets"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+image = "*"
+rayon = "1.0"
